@@ -22,4 +22,4 @@ This header contains several interesting stuff
   - Draggable Buttons(I don't think it's useful but anyway I'll do it)  
 #### Important Upgrade
 **Snapshot Beta 1.0**  
-  - Involve "Buttons" To "Windows"  
+  - Evolve from "Buttons" To "Windows"  
