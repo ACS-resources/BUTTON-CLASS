@@ -10,7 +10,7 @@ This header contains several interesting stuff
   - They are showable and hidable
   - They can have custom colours
 ## Future Plans
-Snapshot Beta 0.0**Now Working On This**
+Snapshot Beta 0.0 **Now Working On This**
   - ANSI RGB Setter
   - Custom Console Cursor Position
   - BUTTONS
