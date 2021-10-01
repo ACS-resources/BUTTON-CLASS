@@ -10,16 +10,16 @@ This header contains several interesting stuff
   - They are showable and hidable
   - They can have custom colours
 ## Future Plans
-Snapshot Beta 0.0 **Now Working On This**  
+**Snapshot Beta 0.0** **Now Working On This**  
   - ANSI RGB Setter  
   - Custom Console Cursor Position  
   - BUTTONS  
   - Hide/Show Concole Cursor Function  
-Snapshot Alpha 0.0  
+**Snapshot Alpha 0.0**  
   - Custom Shaped Buttons  
   - Auto adjustments on the text of the buttons  
-Release 1.0  
+**Release 1.0**  
   - Draggable Buttons(I don't think it's useful but anyway I'll do it)  
 #### Important Upgrade
-Snapshot Beta 1.0  
+**Snapshot Beta 1.0**  
   - Involve "Buttons" To "Windows"  
