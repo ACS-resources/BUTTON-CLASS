@@ -2,14 +2,14 @@
 Easy Buttons For C++ Console
 
 ## Introduction
-This header contains several interesting stuff
-  ANSI RGB Setter: Set the colour of your console freely (Anywhere you want)
-  Custom Console Cursor Position: Go anywhere you want!
-  Button: Clickable buttons appearing in your console!
-  - They are highlightable
-  - They are showable and hidable
-  - They can have custom colours
-## Future Plans
+This header contains several interesting stuff  
+  ANSI RGB Setter: Set the colour of your console freely (Anywhere you want)  
+  Custom Console Cursor Position: Go anywhere you want!  
+  Button: Clickable buttons appearing in your console!  
+  - They are highlightable  
+  - They are showable and hidable  
+  - They can have custom colours  
+## Future Plans  
 **Snapshot Beta 0.0** **[Now Working On This]**  
   - ANSI RGB Setter  
   - Custom Console Cursor Position  
