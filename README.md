@@ -40,7 +40,7 @@ This header contains several interesting stuff
     QuickEdit Mode Disabler  
 **Snapshot Alpha 2.0[InQue]**  
   Auto dialogue text adjustments  
-**Release 2.0**  
+**Release 2.0[iN/A!]**  
   Checkboxes  
   Radio Buttons  
 #### Important Upgrade[iN/A!]
