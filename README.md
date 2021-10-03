@@ -3,15 +3,15 @@ Easy Buttons For C++ Console
 ## Any Bugs? Report them via my Gmail!
 **ACrazySteve007@gmail.com**
 ## Expressions of the status of a release
-[Done√] -> This function is finished
-[Done□] -> This function is being checked for bugs
-[InPro] -> This function is being developed
-[InQue] -> This function is in queue and is not developed
-[Mend□] -> This function contains bug(s) and is being fixed
-[Mendx] -> This function contains bug(s) and is waited to be fixed
-[NotAv] -> This function is not availiable because of technical dificulties
-[iN/A!] -> Status N/A
-## Introduction
+[Done√] -> This function is finished  
+[Done□] -> This function is being checked for bugs  
+[InPro] -> This function is being developed  
+[InQue] -> This function is in queue and is not developed  
+[Mend□] -> This function contains bug(s) and is being fixed  
+[Mendx] -> This function contains bug(s) and is waited to be fixed  
+[NotAv] -> This function is not availiable because of technical dificulties  
+[iN/A!] -> Status N/A  
+## Introduction  
 This header contains several interesting stuff  
   ANSI RGB Setter: Set the colour of your console freely (Anywhere you want)  
   Custom Console Cursor Position: Go anywhere you want!  
@@ -25,8 +25,8 @@ This header contains several interesting stuff
   ANSI RGB Setter[Done√]  
   Custom Console Cursor Position[Done√]  
   BUTTONS[Done√]  
-  Hide/Show Concole Cursor Function[Done□]
-  Button Highlight[Done√]
+  Hide/Show Concole Cursor Function[Done□]  
+  Button Highlight[Done√]  
 **Snapshot Alpha 0.0[InQue]**  
   Custom Shaped Buttons  
   Auto adjustments on the text of the buttons  
